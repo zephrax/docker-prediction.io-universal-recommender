@@ -4,8 +4,9 @@
 
 ### List of currently supported versions:
 
-* Prediction.IO v0.9.6 + Universal Recommender v0.2.3 (branch 0.2.3)
-* Prediction.IO v0.11.0 + Universal Recommender v0.6.0 (branches master/0.6.0)
+* Prediction.IO v0.9.6 + Universal Recommender v0.2.3 (0.2.3)
+
+* Prediction.IO v0.11.0 + Universal Recommender v0.6.0 (master/0.6.0)
 
 ### How to Start
 
